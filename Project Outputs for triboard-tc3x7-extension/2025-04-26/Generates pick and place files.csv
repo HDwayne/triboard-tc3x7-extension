@@ -1,0 +1,38 @@
+Altium Designer Pick and Place Locations
+C:\Users\hdway\Documents\altium\Aurix_Shield\Project Outputs for triboard-tc3x7-extension\2025-04-26\Generates pick and place files.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       26/04/25
+Time:       17:23
+Revision:   003bb1d72093e3c96f98e61c48bc3ebc93898142
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation"
+"J4","Header_3x2","TopLayer","Header_3x2","-95.1700","-43.7488","180"
+"J2","Header_2x2","TopLayer","HEADER_2X2","-78.6600","-15.8088","180"
+"J1","Header_5x2","TopLayer","HEADER_5X2","-64.6900","-15.8088","180"
+"J10","Header_3x2","TopLayer","HEADER_3X2","-29.1300","-15.8088","180"
+"J3","Header_7x2","TopLayer","HEADER_7X2","-11.3500","-15.8088","180"
+"J28","Header_6x2","TopLayer","HEADER_6X2","-25.3200","-43.7488","180"
+"J27","Header_4x2","TopLayer","HEADER_4X2","-109.1400","-15.8088","180"
+"J26","Header_4x2","TopLayer","HEADER_4X2","-68.5000","113.7312","180"
+"J25","Header_2x2","TopLayer","HEADER_2X2","-96.4400","-15.8088","180"
+"J24","Header_8x2","TopLayer","HEADER_8X2","-147.3200","114.0460","0"
+"J23","Header_4x2","TopLayer","HEADER_4X2","-7.5400","-43.7488","180"
+"J22","Header_2","TopLayer","HEADER_2","-87.5500","-15.8088","270"
+"J21","Header_8x2","TopLayer","HEADER_8X2","-76.1200","-43.7488","180"
+"J20","Header_10x2","TopLayer","HEADER_10X2","-45.6400","113.7312","180"
+"J18","Header_6x2","TopLayer","HEADER_6X2","-45.6400","-15.8088","180"
+"J17","Header_6x2","TopLayer","HEADER_6X2","-124.4600","114.0460","180"
+"J16","Header_7x2","TopLayer","HEADER_7X2","-145.9700","-15.8088","180"
+"J15","Header_3x2","TopLayer","HEADER_3X2","-57.0700","-43.7488","180"
+"J13","Header_4x2","TopLayer","HEADER_4X2","-43.1000","-43.7488","180"
+"J12","Header_5x2","TopLayer","HEADER_5X2","-125.6500","-15.8088","180"
+"J9","Header_10x2","TopLayer","HEADER_10X2","-15.1600","113.7312","180"
+"J8","FTSH-140-02-L-DV-ES-A","TopLayer","SAMTEC_FTSH-140-XX-XXX-DV-ES-A","-60.3050","7.1665","180"
+"J7","FTSH-140-02-L-DV-ES-A","TopLayer","SAMTEC_FTSH-140-XX-XXX-DV-ES-A","-61.8290","92.6883","180"
+"J6","FTSH-140-02-L-DV-ES-A","TopLayer","SAMTEC_FTSH-140-XX-XXX-DV-ES-A","-126.8530","92.6883","180"
+"J5","FTSH-140-02-L-DV-ES-A","TopLayer","SAMTEC_FTSH-140-XX-XXX-DV-ES-A","-126.8530","7.1665","180"
