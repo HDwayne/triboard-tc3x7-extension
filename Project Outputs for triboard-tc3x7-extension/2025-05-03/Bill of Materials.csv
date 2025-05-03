@@ -1,0 +1,12 @@
+Comment,Designator,Footprint,LibRef,Quantity
+
+"Header_5x2","J1, J12","HEADER_5X2","Header_5x2","2"
+"Header_2x2","J2, J25","HEADER_2X2","Header_2x2","2"
+"Header_7x2","J3, J16","HEADER_7X2","Header_7x2","2"
+"Header_3x2","J4, J10, J15","Header_3x2","Header_3x2","3"
+"FTSH-140-02-L-DV-ES-A","J5, J6, J7, J8","SAMTEC_FTSH-140-XX-XXX-DV-ES-A","FTSH-140-02-L-DV-ES-A","4"
+"Header_10x2","J9, J20","HEADER_10X2","Header_10x2","2"
+"Header_4x2","J13, J23, J26, J27","HEADER_4X2","Header_4x2","4"
+"Header_6x2","J17, J18, J28","HEADER_6X2","Header_6x2","3"
+"Header_8x2","J21, J24","HEADER_8X2","Header_8x2","2"
+"Header_2","J22","HEADER_2","Header_2","1"

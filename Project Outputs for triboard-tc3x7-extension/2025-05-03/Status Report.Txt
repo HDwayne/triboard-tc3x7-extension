@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [triboard-tc3x7-extension-V01.PcbDoc]
+   Generated File[Generates pick and place files.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 14:48:24 On 03/05/2025
