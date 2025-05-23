@@ -30,14 +30,35 @@ Here is a 3D model preview of the PCB layout:
 - **Manufacturing Files** – Gerber files for PCB production
 - **Assembly Files** – BOM (Bill of Materials) and Pick & Place files for assembly
 
-## 📢 Important Notes
+## Production Cost
 
-- **Samtec FTSH-140-02-L-DV-ES-A connectors**
-  - ⚠️ These connectors are **expensive (~7.5€ each)** and **currently out of stock** at some suppliers like JLCPCB.
-  > A pre-order has been made. once assembled, total board + assembly cost will be indicated.
-- **Project Status**:
-  - The board design is **complete**, but the hardware has **NOT yet been tested**.
-  - Assembly and validation are **ongoing**.
+### PCB Manufacturing
+- PCBs were manufactured by **JLCPCB**.
+- Total cost: **around 70 € for 5 boards** (including shipping and taxes).
+
+### Parts Cost (per board)
+
+| Ref                    | Qty | Total (SAMTEC) | Total (DIGIKEY) |
+|------------------------|-----|----------------|------------------|
+| TSW-105-07-F-D         | 2   | 1.02 €         | 0.94 €           |
+| TSW-102-07-F-D         | 2   | 0.41 €         | 0.38 €           |
+| TSW-107-07-F-D         | 2   | 1.43 €         | 1.34 €           |
+| TSW-103-07-F-D         | 3   | 0.90 €         | 0.84 €           |
+| FTSH-140-02-L-DV-ES-A  | 4   | 36.28 €        | 33.92 €          |
+| TSW-110-07-F-D         | 2   | 1.99 €         | 1.86 €           |
+| TSW-104-07-F-D         | 4   | 1.62 €         | 1.52 €           |
+| TSW-106-07-F-D         | 3   | 2.65 €         | 2.49 €           |
+| TSW-108-07-F-D         | 2   | 1.62 €         | 1.52 €           |
+| TSW-101-07-F-D         | 1   | 0.20 €         | 0.18 €           |
+
+Total Raw Part Cost (per board without shipping and taxes):
+- From **SAMTEC**: **48.12 €**
+- From **DIGIKEY**: **44.99 €**
+
+Total Paid to DIGIKEY (with 1 extra FTSH to avoid shipping fees):
+- Parts: 55.31 €
+- VAT (TVA): 11.06 €
+- Total Paid: **66.37 € for one board**
 
 ## License
 
